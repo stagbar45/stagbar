@@ -272,6 +272,13 @@ Mocktail*/
   bottom: -4rem;
   z-index: 2;
 }
+/*header*/
+
+header .logo img {
+  height: 100px;
+  width: 100px;
+  /* background: var(--black); */
+}
 /* Footer */
 footer {
   color: white;
